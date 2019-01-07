@@ -1,0 +1,18 @@
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameUI\bin\Debug\CowsAndBullsGameUI.exe
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameUI\bin\Debug\CowsAndBullsGameUI.pdb
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameUI\bin\Debug\CowsAndBullsGameDisplay.dll
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameUI\bin\Debug\CowsAndBullsGameDisplay.pdb
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.csprojAssemblyReference.cache
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.csproj.CoreCompileInputs.cache
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.csproj.CopyComplete
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.exe
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.pdb
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameUI\bin\Debug\CowsAndBullsGameUI.exe
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameUI\bin\Debug\CowsAndBullsGameUI.pdb
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameUI\bin\Debug\CowsAndBullsGameDisplay.dll
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameUI\bin\Debug\CowsAndBullsGameDisplay.pdb
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.csprojAssemblyReference.cache
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.csproj.CoreCompileInputs.cache
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.csproj.CopyComplete
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.exe
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameUI\obj\x86\Debug\CowsAndBullsGameUI.pdb

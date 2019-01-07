@@ -1,0 +1,22 @@
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\bin\Debug\CowsAndBullsGameDisplay.dll
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\bin\Debug\CowsAndBullsGameDisplay.pdb
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplayAndLogic.csprojAssemblyReference.cache
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.MainGameBoard.resources
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.NumberOfChances.resources
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.PickAColor.resources
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.Properties.Resources.resources
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplayAndLogic.csproj.GenerateResource.cache
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplayAndLogic.csproj.CoreCompileInputs.cache
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.dll
+C:\Users\kobi.salman\Documents\Pr2\C15 Ex05 KobiSalman 305189284 TalAzaria 201587524\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.pdb
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\bin\Debug\CowsAndBullsGameDisplay.dll
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\bin\Debug\CowsAndBullsGameDisplay.pdb
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplayAndLogic.csprojAssemblyReference.cache
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.MainGameBoard.resources
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.NumberOfChances.resources
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.PickAColor.resources
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.Properties.Resources.resources
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplayAndLogic.csproj.GenerateResource.cache
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplayAndLogic.csproj.CoreCompileInputs.cache
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.dll
+C:\Users\kobi.salman\Documents\Pr2\CowsAndBullsGame\CowsAndBullsGameDisplay\obj\x86\Debug\CowsAndBullsGameDisplay.pdb
